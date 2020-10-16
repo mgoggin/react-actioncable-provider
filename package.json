@@ -23,7 +23,7 @@
   "homepage": "https://github.com/cpunion/react-actioncable-provider#readme",
   "dependencies": {
     "actioncable": "^5.0.0",
-    "create-react-class": "^15.6.2",
+    "create-react-class": "^15.7.0",
     "prop-types": "^15.6.0",
     "react": "^16.1.1"
   },
